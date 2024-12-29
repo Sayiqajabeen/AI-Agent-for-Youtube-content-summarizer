@@ -1,0 +1,14 @@
+transformers
+torch==1.7.1
+gradio
+youtube_transcript_api==0.6.3
+pytube==12.1.0
+gradio
+PyPDF2==3.0.1
+google-generativeai
+python-dotenv
+pathlib
+pandas
+numpy
+textblob
+notion-client
