@@ -18,5 +18,5 @@ This project is a **web-based learning management system** built with **Gradio**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ELMS-Gradio.git
+   git clone https://github.com/Sayiqajabeen/ELMS-Gradio.git
    cd ELMS-Gradio
